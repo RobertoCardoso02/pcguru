@@ -1,2 +1,2 @@
 # pcguru
-💡Hosting site
+Hosting site
